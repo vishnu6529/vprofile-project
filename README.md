@@ -1,4 +1,3 @@
-# Just to chceck
 
 # Prerequisites
 # 
